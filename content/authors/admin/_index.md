@@ -182,7 +182,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-
+- ---
 ## About Me
 
 My name is Joe Schmit, and I just completed my Master's degree in Mathematics in Data Science at TUM.
