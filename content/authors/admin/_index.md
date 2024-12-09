@@ -112,8 +112,7 @@ skills:
       - name: SQL
         description: 'MySQL'
         percent: 100
-        icon: database
-        icon_pack: fas
+        icon: circle-stack
       - name: C++
         description: ''
         percent: 100
@@ -142,12 +141,12 @@ skills:
       - name: Running
         description: ''
         percent: 100
-        icon: person-running
+        icon: running
         icon_pack: fas
       - name: Swimming
         description: ''
         percent: 100
-        icon: person-swimming
+        icon: swimmer
         icon_pack: fas
       - name: Cycling
         description: ''
@@ -157,12 +156,12 @@ skills:
       - name: Hiking
         description: ''
         percent: 100
-        icon: person-hiking
+        icon: hiking
         icon_pack: fas
       - name: Skiing
         description: ''
         percent: 100
-        icon: person-skiing
+        icon: skiing
         icon_pack: fas
       - name: Cooking
         description: 'Asian Food'
