@@ -55,7 +55,7 @@ education:
 
       Thesis on _Trajectory Prediction using Denoising Diffusion Models_. Supervised by [Prof. Stephan Günnemann](https://www.cs.cit.tum.de/daml/guennemann/)
 
-      <a href="uploads/Master's Thesis.pdf" class="btn btn-primary" role="button" target="_blank">Download Thesis</a>
+      <a href="files/master.pdf" class="btn btn-primary" role="button" target="_blank">Download Thesis</a>
 
       Courses included:
       - Machine Learning for Graphs and Sequential Data
