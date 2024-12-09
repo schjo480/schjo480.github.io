@@ -3,7 +3,7 @@
 title: Joe Schmit
 
 # Name pronunciation (optional)
-name_pronunciation: Joe Schmit
+#name_pronunciation: Joe Schmit
 
 # Full name (for SEO)
 first_name: Joe
@@ -59,7 +59,7 @@ education:
       - Business Analytics and Machine Learning
       - Application and Implementation of Database Systems
   - area: B.Sc. Engineering Science
-    institution: Massachusetts Institute of Technology
+    institution: Technical University of Munich (TUM)
     date_start: 2018-10-01
     date_end: 2021-09-13
     summary: |
@@ -102,30 +102,33 @@ skills:
       - name: Python
         description: 'PyTorch, scikit-learn, OpenCV, numpy, pandas, plotly'
         percent: 100
-        icon: code-bracket
+        icon: python
+        icon_pack: fab
       - name: R
         description: 'tidyverse, XGBoost'
         percent: 100
-        icon: code-bracket
+        icon: r-project
+        icon_pack: fab
       - name: SQL
         description: 'MySQL'
         percent: 100
         icon: circle-stack
       - name: C++
         description: ''
-        percent: 50
+        percent: 100
         icon: code-bracket
       - name: AWS Sagemaker
         description: ''
-        percent: 80
-        icon: cloud
+        percent: 100
+        icon: aws
+        icon_pack: fab
       - name: Azure
         description: ''
-        percent: 80
+        percent: 100
         icon: cloud
       - name: Spark
         description: ''
-        percent: 80
+        percent: 100
         icon: cloud
       - name: Tableau
         description: ''
@@ -138,28 +141,33 @@ skills:
       - name: Running
         description: ''
         percent: 100
-        icon: person-running
+        icon: running
+        icon_pack: fas
       - name: Swimming
         description: ''
-        percent: 80
-        icon: person-swimming
+        percent: 100
+        icon: swimmer
+        icon_pack: fas
       - name: Cycling
         description: ''
-        percent: 80
-        icon: person-biking
+        percent: 100
+        icon: bicycle
+        icon_pack: fas
       - name: Hiking
         description: ''
-        percent: 80
-        icon: person-hiking
+        percent: 100
+        icon: hiking
+        icon_pack: fas
       - name: Skiing
         description: ''
-        percent: 80
-        icon: person-skiing
+        percent: 100
+        icon: skiing
+        icon_pack: fas
       - name: Cooking
         description: 'Asian Food'
-        percent: 80
-        icon: utensils
-
+        percent: 100
+        icon: 🍚
+        icon_pack: emoji
 languages:
   - name: German
     percent: 100
