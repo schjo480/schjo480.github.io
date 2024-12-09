@@ -79,7 +79,7 @@ work:
     company_logo: ''
     date_start: 2023-09-01
     date_end: '2024-02-29'
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Developed and deployed a convolutional ML model for noise classification using PyTorch, AWS Sagemaker, and Docker. Approach was based on Short-Term Fourier Transforms and Mel-Spectrograms and outperformed previous LSTM model by 8pp in average accuracy.
       - Designed and scheduled ETL pipelines using SQL and PySpark to load vehicle sensor data into Palantir Foundry. Built and presented data-driven dashboards to development engineers for different use cases.
@@ -106,7 +106,7 @@ work:
       - Analysis for Computer Scientists
       - Discrete Probability Theory
       - Data Analysis and Visualization in R
-      
+
       Responsibilities include:
       - Holding exercise sessions
       - Grading homework and final exams
