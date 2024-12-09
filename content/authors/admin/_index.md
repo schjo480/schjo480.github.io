@@ -140,33 +140,27 @@ skills:
       - name: Running
         description: ''
         percent: 100
-        icon: running
-        icon_pack: fas
+        icon: custom/running
       - name: Swimming
         description: ''
         percent: 100
-        icon: swimmer
-        icon_pack: fas
+        icon: custom/swim
       - name: Cycling
         description: ''
         percent: 100
-        icon: bicycle
-        icon_pack: fas
+        icon: custom/cycling
       - name: Hiking
         description: ''
         percent: 100
-        icon: 
-        icon_pack: fas
+        icon: custom/hiking
       - name: Skiing
         description: ''
         percent: 100
-        icon: skiing
-        icon_pack: fas
+        icon: custom/skiing
       - name: Cooking
         description: 'Asian Food'
         percent: 100
-        icon: '🍚'
-        icon_pack: emoji
+        icon: custom/cooking
 languages:
   - name: German
     percent: 100
