@@ -156,7 +156,7 @@ skills:
       - name: Hiking
         description: ''
         percent: 100
-        icon: hiking
+        icon: 
         icon_pack: fas
       - name: Skiing
         description: ''
@@ -167,7 +167,6 @@ skills:
         description: 'Asian Food'
         percent: 100
         icon: 🍚
-        icon_pack: emoji
 languages:
   - name: German
     percent: 100
