@@ -104,8 +104,7 @@ skills:
       - name: Python
         description: 'PyTorch, scikit-learn, OpenCV, numpy, pandas, plotly'
         percent: 100
-        icon: python
-        icon_pack: fab
+        icon: custom/python
       - name: R
         description: 'tidyverse, XGBoost'
         percent: 100
@@ -113,28 +112,27 @@ skills:
       - name: SQL
         description: 'MySQL'
         percent: 100
-        icon: circle-stack
+        icon: custom/sql
       - name: C++
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: custom/c
       - name: AWS Sagemaker
         description: ''
         percent: 100
-        icon: aws
-        icon_pack: fab
+        icon: custom/aws
       - name: Azure
         description: ''
         percent: 100
-        icon: cloud
+        icon: custom/azure
       - name: Spark
         description: ''
         percent: 100
-        icon: cloud
+        icon: custom/spark
       - name: Tableau
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: custom/tableau
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
