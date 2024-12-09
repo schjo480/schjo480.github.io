@@ -3,7 +3,7 @@
 title: Joe Schmit
 
 # Name pronunciation (optional)
-#name_pronunciation: Joe Schmit
+name_pronunciation: Joe Schmit
 
 # Full name (for SEO)
 first_name: Joe
