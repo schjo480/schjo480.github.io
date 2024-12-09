@@ -58,7 +58,7 @@ education:
       - Machine Learning for Graphs and Sequential Data
       - Business Analytics and Machine Learning
       - Application and Implementation of Database Systems
-  - area: B.Scs Engineering Science
+  - area: B.Sc. Engineering Science
     institution: Massachusetts Institute of Technology
     date_start: 2018-10-01
     date_end: 2021-09-13
