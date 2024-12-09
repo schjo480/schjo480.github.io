@@ -55,7 +55,7 @@ education:
 
       Thesis on _Trajectory Prediction using Denoising Diffusion Models_. Supervised by [Prof. Stephan Günnemann](https://www.cs.cit.tum.de/daml/guennemann/)
 
-      <a href="files/master.pdf" class="btn btn-primary" role="button" target="_blank">Download Thesis</a>
+      [Download Master Thesis](/files/master.pdf)
 
       Courses included:
       - Machine Learning for Graphs and Sequential Data
@@ -69,6 +69,8 @@ education:
       German Grade: 2.1
 
       Thesis on _Availability Analysis of Optical Sensors using Autonomous Driving Data_. Supervised by [Prof. Markus Lienkamp](https://www.mos.ed.tum.de/ftm/personen/mitarbeiter/prof-dr-ing-markus-lienkamp-lebenslauf/)
+      
+      [Download Bachelor Thesis](/files/bachelor.pdf)
       
       Courses included:
       - Embedded Systems
