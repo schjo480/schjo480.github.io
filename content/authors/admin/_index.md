@@ -206,3 +206,4 @@ languages:
 ## About Me
 
 My name is Joe Schmit, and I just completed my Master's degree in Mathematics in Data Science at TUM. Through internships at BMW and Celonis I gained significant experience in designing and building software and data driven solutions for different types of users.
+I am actively looking and motivated to join a dynamic team where I can contribute and grow my proficiency in machine learning, data science, and software development.
