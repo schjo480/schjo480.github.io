@@ -52,6 +52,7 @@ education:
     date_end: 2024-10-16
     summary: |
       German Grade: 1.6
+
       Thesis on _Trajectory Prediction using Denoising Diffusion Models_. Supervised by [Prof. Stephan Günnemann](https://www.cs.cit.tum.de/daml/guennemann/)
 
       Courses included:
@@ -64,6 +65,7 @@ education:
     date_end: 2021-09-13
     summary: |
       German Grade: 2.1
+
       Thesis on _Availability Analysis of Optical Sensors using Autonomous Driving Data_. Supervised by [Prof. Markus Lienkamp](https://www.mos.ed.tum.de/ftm/personen/mitarbeiter/prof-dr-ing-markus-lienkamp-lebenslauf/)
       
       Courses included:
@@ -166,7 +168,8 @@ skills:
       - name: Cooking
         description: 'Asian Food'
         percent: 100
-        icon: 🍚
+        icon: '🍚'
+        icon_pack: emoji
 languages:
   - name: German
     percent: 100
