@@ -53,9 +53,7 @@ education:
     summary: |
       German Grade: 1.6
 
-      Thesis on _Trajectory Prediction using Denoising Diffusion Models_. Supervised by [Prof. Stephan Günnemann](https://www.cs.cit.tum.de/daml/guennemann/)
-
-      [Download Master Thesis](/files/master.pdf)
+      Thesis on [_Trajectory Prediction using Denoising Diffusion Models_](/files/master.pdf).<br> Supervised by [Prof. Stephan Günnemann](https://www.cs.cit.tum.de/daml/guennemann/)
 
       Courses included:
       - Machine Learning for Graphs and Sequential Data
@@ -68,10 +66,8 @@ education:
     summary: |
       German Grade: 2.1
 
-      Thesis on _Availability Analysis of Optical Sensors using Autonomous Driving Data_. Supervised by [Prof. Markus Lienkamp](https://www.mos.ed.tum.de/ftm/personen/mitarbeiter/prof-dr-ing-markus-lienkamp-lebenslauf/)
-      
-      [Download Bachelor Thesis](/files/bachelor.pdf)
-      
+      Thesis on [_Availability Analysis of Optical Sensors using Autonomous Driving Data_](/files/bachelor.pdf).<br> Supervised by [Prof. Markus Lienkamp](https://www.mos.ed.tum.de/ftm/personen/mitarbeiter/prof-dr-ing-markus-lienkamp-lebenslauf/)
+            
       Courses included:
       - Embedded Systems
       - Fundamentals of Databases
@@ -205,5 +201,5 @@ languages:
 ---
 ## About Me
 
-My name is Joe Schmit, and I just completed my Master's degree in Mathematics in Data Science at TUM. Through internships at BMW and Celonis I gained significant experience in designing and building software and data driven solutions for different types of users.
+My name is Joe Schmit, and I just completed my Master's degree in Mathematics in Data Science at TUM. Through internships at BMW and Celonis I gained significant experience in designing and building software and data driven solutions for different types of users.<br>
 I am actively looking and motivated to join a dynamic team where I can contribute and grow my proficiency in machine learning, data science, and software development.
