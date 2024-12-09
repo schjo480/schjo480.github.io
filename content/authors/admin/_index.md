@@ -109,8 +109,8 @@ skills:
       - name: R
         description: 'tidyverse, XGBoost'
         percent: 100
-        icon: r-project
-        icon_pack: fab
+        icon: Rlogo
+        icon_pack: custom
       - name: SQL
         description: 'MySQL'
         percent: 100
