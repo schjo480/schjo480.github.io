@@ -106,6 +106,7 @@ work:
       - Analysis for Computer Scientists
       - Discrete Probability Theory
       - Data Analysis and Visualization in R
+      
       Responsibilities include:
       - Holding exercise sessions
       - Grading homework and final exams
